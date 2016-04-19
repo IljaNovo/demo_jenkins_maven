@@ -4,3 +4,7 @@ javase7-essentials-archetype
 
 Task4
 mvn javadoc:javadoc
+
+Task9
+mvn architype:generate
+webapp-javaee6
