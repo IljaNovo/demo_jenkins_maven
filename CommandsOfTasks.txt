@@ -1,0 +1,3 @@
+Task1
+mvn architype:generate
+javase7-essentials-archetype
