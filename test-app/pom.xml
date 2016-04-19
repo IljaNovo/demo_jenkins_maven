@@ -6,6 +6,14 @@
     <artifactId>test-app</artifactId>
     <version>1.0</version>
     <name>test-app</name>
+    <profiles>
+        <profile>
+            <id>dev</id>
+        </profile>
+        <profile>
+            <id>prod</id>
+        </profile>
+    </profiles>
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
